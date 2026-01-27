@@ -1,2 +1,2 @@
-# revanth.me
-Repo for revanth.me site
+### Visit https://revanth.me
+### Everything about me
